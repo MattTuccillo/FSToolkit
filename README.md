@@ -5,8 +5,8 @@ This app was made for personal use as a file browser that allows viewing, renami
 
 
 *************
-* TO DO
+TO DO
 *************
--Refactor code for better organization
--Add video controls bar
--Sorting for file lists
+* Refactor code for better organization
+* Add video controls bar
+* Sorting for file lists
